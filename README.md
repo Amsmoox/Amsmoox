@@ -3,7 +3,10 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Development and Research of Software Components of Natural Language Processing for building an Intelligent Chatbot (Algorithms Demo)](https://github.com/Amsmoox/ChatBotNLP)
+  - <strong>Title : Development and Research of Software Components of Natural Language Processing for building an Intelligent Chatbot</strong>
+    <br><strong>Description: </strong> An intelligent chatbot project developed using Python, Tkinter, NLTK, and NLP techniques, designed to engage users in natural and intuitive conversations
+    <br><strong>Project Link :  </strong> [ChatBot NLP (Algorithms Demo)](https://github.com/Amsmoox/ChatBotNLP)
+
 
 
 [<img align="left" alt="MharrechAyoub | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
