@@ -11,7 +11,11 @@
     <br><strong>Description: </strong> An intelligent chatbot project developed using Python, Tkinter, NLTK, and NLP techniques, designed to engage users in natural and intuitive conversations / Demo Algorithm
     <br><strong>Project Link :  </strong> [ChatBot NLP (Algorithms Demo)](https://github.com/Amsmoox/ChatBotNLP)
 
-
+-----------------------------------------------------------
+  - <strong>Mini Projects (For beginners)</strong>
+    - <strong>Title >> PythonSudokuSolver</strong> 
+    - <strong>Description : </strong> This Sudoku Solver is a Python-based application designed to automatically solve Sudoku puzzles. The solver uses a backtracking algorithm to fill in the blank spaces in a given Sudoku grid with the correct numbers according to Sudoku rules.
+    <strong>Project Link :  </strong> [PythonSudokuSolver - Tkinter (GUI))](https://github.com/Amsmoox/PythonSudokuSolver)
 
 [<img align="left" alt="MharrechAyoub | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MharrechAyoub | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
