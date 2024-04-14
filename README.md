@@ -16,6 +16,11 @@
     - <strong>Title >> PythonSudokuSolver</strong> 
     - <strong>Description : </strong> This Sudoku Solver is a Python-based application designed to automatically solve Sudoku puzzles. The solver uses a backtracking algorithm to fill in the blank spaces in a given Sudoku grid with the correct numbers according to Sudoku rules.
     <strong>Project Link :  </strong> [PythonSudokuSolver - Tkinter (GUI))](https://github.com/Amsmoox/PythonSudokuSolver)
+<br><br>
+
+    - <strong>Title >> YouTubeVideoDownloader</strong> 
+    - <strong>Description : </strong> This application allows you to download videos from YouTube effortlessly
+    <strong>Project Link :  </strong> [YouTubeVideoDownloader - Tkinter (GUI))](https://github.com/Amsmoox/YouTubeVideoDownloader_Tkinter)
 
 [<img align="left" alt="MharrechAyoub | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MharrechAyoub | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
