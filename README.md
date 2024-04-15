@@ -13,9 +13,9 @@
 
 -----------------------------------------------------------
 <h2><strong>Mini Projects</strong></h2>
-<li><a href="https://github.com/Amsmoox/PythonSudokuSolver" >PythonSudokuSolver - Tkinter (GUI</a>  : Sudoku Solver with backtracking algorithm to fill in the blank spaces in a given Sudoku grid with the correct numbers according to Sudoku rules.</li>
+<li><a href="https://github.com/Amsmoox/PythonSudokuSolver" >PythonSudokuSolver - Tkinter (GUI)</a>  : Sudoku Solver with backtracking algorithm to fill in the blank spaces in a given Sudoku grid with the correct numbers according to Sudoku rules.</li>
 <br>
-<li>[YouTubeVideoDownloader - Tkinter (GUI))](https://github.com/Amsmoox/YouTubeVideoDownloader_Tkinter) : This application allows you to download videos from YouTube effortlessly
+<li><a href="https://github.com/Amsmoox/YouTubeVideoDownloader_Tkinter" >YouTubeVideoDownloader - Tkinter (GUI)</a> : This application allows you to download videos from YouTube effortlessly
 </li>
 
 [<img align="left" alt="MharrechAyoub | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
