@@ -17,6 +17,9 @@
 <br>
 <li><a href="https://github.com/Amsmoox/YouTubeVideoDownloader_Tkinter" >YouTubeVideoDownloader - Tkinter (GUI)</a> : This application allows you to download videos from YouTube effortlessly
 </li>
+<br>
+<li><a href="https://github.com/Amsmoox/AimTrainer" >Aim Trainer </a> : is a Python-based interactive game designed to help users improve their mouse aiming and clicking accuracy.
+</li>
 
 [<img align="left" alt="MharrechAyoub | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
