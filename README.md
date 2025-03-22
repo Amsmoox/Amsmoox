@@ -3,7 +3,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amsmoox&label=Profile%20views&color=0e75b6&style=flat" alt="amsmoox" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amsmoox" alt="amsmoox" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amsmoox&theme=gruvbox" alt="amsmoox" /></a> </p>
+
+<h3>🚀 About Me</h3>
+<p>
+  I'm <strong>Ayoub Mharrech</strong>, a passionate <strong>Full Stack Developer</strong> and <strong>UI/UX Designer</strong> from Morocco with over 4 years of experience. I build scalable back-end systems, dynamic front-end interfaces, and seamless user experiences. Proficient in <strong>Python, React, Laravel, WordPress, and DevOps</strong> tools, I turn ideas into reliable, efficient, and beautifully crafted web applications.
+</p>
+
+<h3>🧰 Tech Stack</h3>
+<p>
+  <strong>Languages:</strong> Python, JavaScript, PHP, HTML, CSS, SQL<br/>
+  <strong>Frameworks:</strong> Django, Flask, Laravel, React, Next.js, Vue.js<br/>
+  <strong>Design:</strong> Figma, Photoshop, Materialize, Sass, Stylus<br/>
+  <strong>Databases:</strong> PostgreSQL, MySQL, SQLite<br/>
+  <strong>DevOps:</strong> Docker, Kubernetes, Redis, Celery<br/>
+  <strong>AI & ML:</strong> TensorFlow, Keras, PyTorch, NLP, Reinforcement Learning<br/>
+  <strong>CMS:</strong> WordPress, Framer<br/>
+  <strong>Others:</strong> REST API, SEO, ElasticSearch, Git, Agile (Scrum/Kanban), PlantUML
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
